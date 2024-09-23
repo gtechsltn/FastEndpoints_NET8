@@ -1,0 +1,1 @@
+# FastEndpoints_NET8
